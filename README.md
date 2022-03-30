@@ -1,1 +1,1 @@
-# edubridge-data-analytics
+# EDA using Python
